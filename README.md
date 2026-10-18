@@ -42,6 +42,22 @@ W is a coefficient for the respective feature X.
 
 Uses multiple input features, Example: Predict house price from area, bedrooms, and age.
 
+# Implementation Steps
+## Data Preprocessing:
+
+Encoding Categorical Variables: Convert categorical data into numerical by techniques like target encoding.
+Data Scaling: Standardize features by removing the mean and scaling to unit variance or scale to a range (0,1).
+
+## Model Building:
+Splitting the Dataset: Divide the data into training and testing sets (commonly 70:30 or 80:20 splits) to validate the effectiveness of the model.
+Training the Model: Fit the model using training data via libraries like scikit-learn.
+Prediction: Use the model to predict outputs on the test dataset.
+
+## Model Evaluation:
+R-squared (Coefficient of Determination): Measures how well the independent variables explain the variance of the dependent variable.
+Error Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE) are used to measure the accuracy of predictions.
+
+
 ## Main project steps: 
 1. Load and explore the dataset.
 2. Split data into training and test sets.
