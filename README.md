@@ -88,3 +88,5 @@ y_pred = model.predict(X_test)
 Advantages: Simple, interpretable, fast, and useful as a baseline model.
 
 Limitations: Sensitive to outliers, affected by correlated features, and may underfit nonlinear relationships. Predictions outside the training data’s range can be unreliable.
+
+Overfitting: Occurs when the model is too complex, capturing noise in the training data.
