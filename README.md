@@ -32,4 +32,5 @@ Uses multiple input features, Example: Predict house price from area, bedrooms, 
 
 ## Advantages and limitations
 Advantages: Simple, interpretable, fast, and useful as a baseline model.
+
 Limitations: Sensitive to outliers, affected by correlated features, and may underfit nonlinear relationships. Predictions outside the training data’s range can be unreliable.
