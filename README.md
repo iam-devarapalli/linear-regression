@@ -35,6 +35,7 @@ Uses one input feature, Example: Predict house price from area.
 ## Multiple Linear Regression: 
 
 If there are two or more independent variables, it's referred to as multiple linear regression. 
+
 The equation becomes:  Y = W0 + W1X1 + W2X2 +...+WnXn
 W is a coefficient for the respective feature X.
 
