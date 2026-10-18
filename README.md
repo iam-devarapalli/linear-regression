@@ -5,3 +5,8 @@ Linear regression is a supervised machine learning algorithm used to predict a c
 # How it works
 
 Linear regression fits a line or hyperplane by minimizing the sum of squared differences between actual and predicted values.
+
+
+\[
+\hat{y} = \beta_0 + \beta_1x_1 + \cdots + \beta_nx_n
+\]
