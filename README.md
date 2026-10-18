@@ -57,6 +57,16 @@ Prediction: Use the model to predict outputs on the test dataset.
 R-squared (Coefficient of Determination): Measures how well the independent variables explain the variance of the dependent variable.
 Error Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE) are used to measure the accuracy of predictions.
 
+## Practical Implementation: 
+Implementing linear regression in Python with scikit-learn is straightforward:
+
+from sklearn.linear_model import LinearRegression
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+# Predicting
+y_pred = model.predict(X_test)
 
 ## Main project steps: 
 1. Load and explore the dataset.
