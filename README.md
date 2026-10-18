@@ -8,4 +8,5 @@ Linear regression fits a line or hyperplane by minimizing the sum of squared dif
 
 <img width="681" height="181" alt="Screenshot 2026-10-18 at 12 34 00 PM" src="https://github.com/user-attachments/assets/469cfeec-1c5a-452a-bfc6-61bd3166afda" />
 
-
+## Linear Regression Types:
+Simple Linear Regression : uses one input feature, Example : Predict house price from area.
