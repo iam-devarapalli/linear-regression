@@ -6,7 +6,6 @@ Linear regression is a supervised machine learning algorithm used to predict a c
 
 Linear regression fits a line or hyperplane by minimizing the sum of squared differences between actual and predicted values.
 
+<img width="681" height="181" alt="Screenshot 2026-10-18 at 12 34 00 PM" src="https://github.com/user-attachments/assets/469cfeec-1c5a-452a-bfc6-61bd3166afda" />
 
-\[
-\hat{y} = \beta_0 + \beta_1x_1 + \cdots + \beta_nx_n
-\]
+
