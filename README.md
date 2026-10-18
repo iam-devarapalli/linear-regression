@@ -11,9 +11,26 @@ Supervised Learning: Since both X and Y are known, linear regression falls under
 
 <img width="681" height="181" alt="Screenshot 2026-10-18 at 12 34 00 PM" src="https://github.com/user-attachments/assets/469cfeec-1c5a-452a-bfc6-61bd3166afda" />
 
+# Learning Objectives:
+
+Understand the basic concept of linear regression.
+
+Implement linear regression using a dataset.
+
+Learn about the importance of model evaluation through metrics like R-squared.
+
 # Linear Regression Types:
 ## Simple Linear Regression: 
+There is only one independent variable affecting a dependent variable. The relationship can be expressed as: 
+Y = mX + c
+Where: 
+m is the slope of the line (coefficient)
+c is the y-intercept.
+
+The algorithm tries to find the best-fit line that best predicts Y from X.
+
 Uses one input feature, Example: Predict house price from area.
+
 
 ## Multiple Linear Regression: 
 Uses multiple input features, Example: Predict house price from area, bedrooms, and age.
