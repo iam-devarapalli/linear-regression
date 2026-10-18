@@ -1,10 +1,13 @@
 # Linear-Regression
 
-Linear regression is a supervised machine learning algorithm used to predict a continuous numerical value, such as a house price, salary, or delivery time. It models a linear relationship between input features and a target variable.
+Linear regression is a simple and widely used machine learning algorithm that provides a foundation for understanding more advanced techniques. It models the linear relationship between one or more independent variables (X) and a continuous dependent variable (Y) to make predictions.
 
-# How it works
+# Key Concepts: 
+Dependent Variable (Y): The variable we want to predict, also known as the target variable.
 
-Linear regression fits a line or hyperplane by minimizing the sum of squared differences between actual and predicted values.
+Independent Variables (X): Features used to predict the dependent variable.
+
+Supervised Learning: Since both X and Y are known, linear regression falls under supervised learning.
 
 <img width="681" height="181" alt="Screenshot 2026-10-18 at 12 34 00 PM" src="https://github.com/user-attachments/assets/469cfeec-1c5a-452a-bfc6-61bd3166afda" />
 
